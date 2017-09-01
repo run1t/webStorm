@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="In Project">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'⌘+P'</ShortCut>
+          <Description>In Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Include">
         <Item>
           <IdeaActionID>UsageView.Include</IdeaActionID>
