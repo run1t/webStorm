@@ -54,7 +54,7 @@
           <IdeaActionID />
           <ShortCut>'⌘+D'</ShortCut>
           <Description>Directory</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -78,7 +78,7 @@
           <IdeaActionID />
           <ShortCut>'⌘+P'</ShortCut>
           <Description>In Project</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Include">
