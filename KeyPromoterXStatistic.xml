@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>129</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -92,6 +92,14 @@
           <IdeaActionID>OptimizeImports</IdeaActionID>
           <ShortCut>'⌃⌥O'</ShortCut>
           <Description>Optimize Imports</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste Simple">
+        <Item>
+          <IdeaActionID>EditorPasteSimple</IdeaActionID>
+          <ShortCut>'⌥⇧⌘V'</ShortCut>
+          <Description>Paste Simple</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
